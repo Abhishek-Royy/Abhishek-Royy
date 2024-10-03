@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-royy&show_icons=true&locale=en" alt="abhishek-royy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-royy&" alt="abhishek-royy" /></p>
+
+[![An image of @abhishekroyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekroyy)](https://holopin.io/@abhishekroyy)
+

@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://imgs.search.brave.com/cnanDAvQsF-mHJDZZ-sv0qgVWZ7tLW3QlPMDT6N7urs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9idXJz/dC5zaG9waWZ5Y2Ru/LmNvbS9waG90b3Mv/c29mdHdhcmUtZGV2/ZWxvcGVyLW9uLXBo/cC1jb2RlLmpwZz93/aWR0aD0xMDAwJmZv/cm1hdD1wanBnJmV4/aWY9MCZpcHRjPTA" alt="abhishek-royy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-royy&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-royy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-royy" alt="abhishek-royy" /></a> </p>
 

@@ -35,11 +35,10 @@
 
 I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate about crafting clean, functional web experiences and exploring the world of AI/ML on the side. I love turning ideas into real, working products — one commit at a time. ✨
 
-🔭 &nbsp;Currently building an **e-Learning platform** <br/>
-🌱 &nbsp;Currently leveling up my **Backend skills & AWS** <br/>
+
 🤝 &nbsp;Open to collaborating on **real-world projects** <br/>
-💬 &nbsp;Ask me about **React, JavaScript & Tailwind CSS** <br/>
-📫 &nbsp;Reach me at **abhishek800.roy@gmail.com** <br/>
+💬 &nbsp;Ask me about **React, Node JS, Open CV, RAG, CI/CD** <br/>
+📫 &nbsp;Reach me at **abhishek699.roy@gmail.com** <br/>
 ⚡ &nbsp;Fun fact: **I turn ☕ into `<code/>`**
 
 <br clear="right"/>
@@ -49,7 +48,7 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,c,git,postman,vscode,photoshop&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,git,postman,vscode,pandas,opencv,rag,docker,photoshop&perline=9" />
 </p>
 
 ---
@@ -63,8 +62,10 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Royy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F97316&title_color=F97316" width="49%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-royy&show_icons=true&locale=en&layout=compact" alt="abhishek-royy" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-royy&show_icons=true&locale=en" alt="abhishek-royy" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Royy&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316" width="42%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-royy&" alt="abhishek-royy" />
 </p>
 
 <p align="center">

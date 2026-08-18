@@ -44,7 +44,7 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,py,git,docker,postman,vscode,kali,opencv,sklearn,pytorch,tensorflow,ps&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,js,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,py,git,docker,postman,vscode,kali,opencv,sklearn,pytorch,tensorflow,ps&perline=9" />
 </p>
 
 <p align="center">
@@ -60,17 +60,6 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Royy&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="70%" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Royy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F97316&title_color=F97316" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Royy&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Royy&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---

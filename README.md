@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm Abhishek Roy 👋</h1>
-
-<h3 align="center">💻 MERN Stack Developer | 🤖 AIML Enthusiast </h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=180&section=header&text=Abhishek%20Roy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Developer%20%7C%20AIML%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+(MERN);AI%2FML+Enthusiast;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -33,22 +31,18 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-name: "Abhishek Roy"
-role: "MERN Stack Developer / AIML Enthusiast"
-location: "India"
-currently_working_on: "e-Learning platform website"
-currently_learning: ["Backend", "AWS"]
-looking_to_collaborate_on: "Real-life projects"
-ask_me_about: ["React", "JavaScript", "Tailwind CSS"]
-fun_fact: "I turn ☕ into <code/>"
-```
+<img align="right" width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding-github.gif">
 
-- 🔭 Currently building an **e-Learning platform**
-- 🌱 Currently leveling up in **Backend Development & AWS**
-- 🤝 Open to collaborating on **real-world projects**
-- 💬 Ask me about **React, JavaScript, Tailwind CSS**
-- 📫 Reach me at **abhishek800.roy@gmail.com**
+I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate about crafting clean, functional web experiences and exploring the world of AI/ML on the side. I love turning ideas into real, working products — one commit at a time. ✨
+
+🔭 &nbsp;Currently building an **e-Learning platform** <br/>
+🌱 &nbsp;Currently leveling up my **Backend skills & AWS** <br/>
+🤝 &nbsp;Open to collaborating on **real-world projects** <br/>
+💬 &nbsp;Ask me about **React, JavaScript & Tailwind CSS** <br/>
+📫 &nbsp;Reach me at **abhishek800.roy@gmail.com** <br/>
+⚡ &nbsp;Fun fact: **I turn ☕ into `<code/>`**
+
+<br clear="right"/>
 
 ---
 
@@ -60,15 +54,17 @@ fun_fact: "I turn ☕ into <code/>"
 
 ---
 
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Royy&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="70%" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Royy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Royy&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Royy&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Royy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F97316&title_color=F97316" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Royy&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316" width="42%" />
 </p>
 
 <p align="center">
@@ -81,19 +77,6 @@ fun_fact: "I turn ☕ into <code/>"
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Royy&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Abhishek-Royy/multiAgentResearchSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Royy&repo=multiAgentResearchSystem&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Abhishek-Royy/waste_detection_finalyearProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Royy&repo=waste_detection_finalyearProject&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ---

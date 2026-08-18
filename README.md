@@ -32,9 +32,8 @@
 
 I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate about crafting clean, functional web experiences and exploring the world of AI/ML on the side. I love turning ideas into real, working products — one commit at a time. ✨
 
-
 🤝 &nbsp;Open to collaborating on **real-world projects** <br/>
-💬 &nbsp;Ask me about **React, Node JS, Open CV, RAG, CI/CD** <br/>
+💬 &nbsp;Ask me about **React, Node JS, OpenCV, RAG, CI/CD** <br/>
 📫 &nbsp;Reach me at **abhishek699.roy@gmail.com** <br/>
 ⚡ &nbsp;Fun fact: **I turn ☕ into `<code/>`**
 
@@ -45,7 +44,14 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,git,postman,vscode,pandas,opencv,rag,docker,numpy,stramlit,photoshop&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,py,git,docker,postman,vscode,kali,opencv,sklearn,pytorch,tensorflow,ps&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
@@ -56,7 +62,12 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Royy&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="70%" />
 </p>
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Royy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=F97316&title_color=F97316" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Royy&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316" width="42%" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Royy&theme=tokyonight&no-frame=true&row=1&column=7" />

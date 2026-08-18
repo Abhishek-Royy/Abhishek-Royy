@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Abhishek Roy 👋</h1>
 
-<h3 align="center">💻 MERN Stack Developer | 🤖 AIML Enthusiast | 🚀 Building things that matter</h3>
+<h3 align="center">💻 MERN Stack Developer | 🤖 AIML Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+(MERN);AI%2FML+Enthusiast;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />

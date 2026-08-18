@@ -8,17 +8,14 @@
   <a href="https://www.linkedin.com/in/abhishek-roy-4a5244239" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abhishek800.roy@gmail.com">
+  <a href="mailto:abhishek699.roy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/22367073/abhishek-roy" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://codepen.io/abhishek-roy-the-looper" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="https://codesandbox.io/u/abhishek699_roy" target="_blank">
-    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <a href="https://leetcode.com/u/abhishek1162/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
 </p>
 
@@ -48,7 +45,7 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,git,postman,vscode,pandas,opencv,rag,docker,photoshop&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,java,git,postman,vscode,pandas,opencv,rag,docker,numpy,stramlit,photoshop&perline=9" />
 </p>
 
 ---
@@ -59,14 +56,7 @@ I'm a **MERN Stack Developer** and **AIML Enthusiast** from India, passionate ab
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Royy&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="70%" />
 </p>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-royy&show_icons=true&locale=en&layout=compact" alt="abhishek-royy" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-royy&show_icons=true&locale=en" alt="abhishek-royy" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Royy&layout=compact&theme=tokyonight&hide_border=true&title_color=F97316" width="42%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-royy&" alt="abhishek-royy" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Royy&theme=tokyonight&no-frame=true&row=1&column=7" />

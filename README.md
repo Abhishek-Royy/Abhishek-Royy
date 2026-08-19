@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6DD5FA&height=180&section=header&text=Abhishek%20Roy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Developer%20%7C%20AIML%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+(MERN);AI%2FML+Enthusiast;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+(MERN);AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
